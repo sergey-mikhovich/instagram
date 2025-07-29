@@ -35,7 +35,7 @@ const features = [
   'Statistics',
 ]
 
-export default function RootLayout({
+export default function RootLayoutRootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
