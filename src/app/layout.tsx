@@ -30,7 +30,7 @@ const features = [
   'Messenger',
   'Post',
   'Profile',
-  'Profile_Settings',
+  'Profile_Settings Profile_Settings',
   'Search',
   'Statistics',
 ]
